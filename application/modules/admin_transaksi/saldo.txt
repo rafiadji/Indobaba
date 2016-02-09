@@ -1,0 +1,3 @@
+STS_SALDO di mp_transaksi
+    1   :   pakai saldo
+    0   :   transfer bank    

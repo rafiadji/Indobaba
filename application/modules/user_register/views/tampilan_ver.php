@@ -1,0 +1,2 @@
+<div style="background:#f1c40f;color: #e67e22;padding: 30px;margin-bottom: 10px;border-bottom: 5px solid green">Indobaba</div>
+Register sukses, silahkan klik link berikut<br/><br/><a href="<?php echo base_url('user_register/verifikasi/'.$id_akun.'/'.$email);?>">Link verifikasi</a>
